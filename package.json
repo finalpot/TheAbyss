@@ -1,0 +1,14 @@
+{
+  "name": "abyss",
+  "version": "1.0.0",
+  "description": "My Projects",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "Javascript"
+  ],
+  "author": "Klaus",
+  "license": "ISC"
+}
